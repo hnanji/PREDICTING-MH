@@ -8,6 +8,7 @@ The purpose of this project is to analyze patient-level data, perform explorator
 
 # Installation
 https://github.com/hnanji/PREDICTING-MH.git
+
 cd project-name
 
 # Install dependencies
